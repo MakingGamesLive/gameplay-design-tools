@@ -1,4 +1,4 @@
-# gameplay-dynamics-tools v1
+# gameplay-design-tools v1
 
 This project combines some fundamental gameplay elements into gameplay dynamics, based on a new gameplay design paradigm I came up with.
 
